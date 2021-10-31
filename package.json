@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "parcel": "^2.0.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  },
+  "scripts": {
+    "watch": "parcel watch styles.css --dist-dir static --no-hmr --no-source-maps"
+  }
+}
