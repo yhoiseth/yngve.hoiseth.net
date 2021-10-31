@@ -2,8 +2,10 @@ Repository for yngve.hoiseth.net. Created 2021-10-31 to try Tailwind and use Zol
 
 # Sources and inspiration
 
-1. https://www.maybevain.com/writing/using-tailwind-css-with-zola-static-site-generator/
-2. https://www.matuzo.at/blog/html-boilerplate/
+1. https://www.getzola.org
+2. https://tailwindcss.com
+2. https://www.maybevain.com/writing/using-tailwind-css-with-zola-static-site-generator/
+3. https://www.matuzo.at/blog/html-boilerplate/
 
 # Deps
 
